@@ -1,7 +1,7 @@
 # Probability-Project
 ## Latar Belakang
 
-![Alt text](https://github.com/syahruaru/Probability-Project/blob/main/img/Slide2.JPG?raw=true)
+Berdasarkan ekplorasi data yang dilakukan diketahui tagihan perokok memiliki variansi yang lebih besar dibandingkan dengan tagihan non-perokok, artinya perokok memiliki besar tagihan kesehatan yang lebih variatif dibandingkan dengan non-perokok. Berdasarkan scatterplot bisa dilihat selain memiliki sebaran data yang lebih variatif, nilai tagihan perokok juga secara umum lebih besar dibandingkan dengan nilai tagihan non-perokok. Berdasarkan eksplorasi data, rata-rata tagihan perokok lebih besar dari rata-rata tagihan non-perokok Rata-rata tagihan kesehatan orang yang overweight (BMI > 25) lebih besar dari orang non-overweight Rata-rata tagihan perokok laki-laki lebih besar dari tagihan perokok Perempuan Rata-rata tagihan laki-laki overweight lebih besar dari tagihan Perempuan overweight
 
 ### Full Explanation
 
